@@ -8,3 +8,5 @@ TestNG
 Maven plugins
 
 Jacoco plugin
+
+Database Plugins
